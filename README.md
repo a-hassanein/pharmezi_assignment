@@ -6,6 +6,7 @@ This Application use to update discount value by excel sheet.
 ## FrontEnd:
 - ReactJS
 - SheetJS
+- bootstrap
 
 ## BackEnd:
 - Django
@@ -14,3 +15,4 @@ This Application use to update discount value by excel sheet.
 
 # Example from Application running
 ![image](run.png?raw=true)
+
