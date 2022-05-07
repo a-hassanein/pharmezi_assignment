@@ -75,7 +75,7 @@ function Home() {
                             const file = e.target.files[0];
                             readExcel(file)
                         }} />
-                        <Link type="btn" className='btn sub_btn' onClick={handleAddNewDiscount}>upload</Link>
+                        <Link to={'#'} type="btn" className='btn sub_btn' onClick={handleAddNewDiscount}>upload</Link>
                     </div>
                 </form>
 
