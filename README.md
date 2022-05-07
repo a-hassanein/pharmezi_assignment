@@ -10,7 +10,7 @@ This Application use to update discount value by excel sheet.
 
 ## BackEnd:
 - Django
-- Django RestFramework (API)
+- Django RestfulFramework (API)
 - mysql(xampp)
 
 # Example from Application running
